@@ -20,26 +20,23 @@ I am a PhD student in Fudan University, supervised by [Li Zhang](https://lzrobot
 
 # 🔥 News
 
-- *2025.06*: &nbsp;🎉🎉 BezierGS has been accepted by ICCV 2025.
+- *2025.06*: &nbsp;🎉🎉 BézierGS has been accepted by ICCV 2025.
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zipei Ma**\*, Junzhe Jiang\*, Yurui Chen, Li Zhang†  
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) `<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>``</strong>`
+[**Code**](https://github.com/fudan-zvg/BezierGS)
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- We propose a method that models object motion using Bézier curves, achieving accurate reconstruction and effective foreground-background separation.
 
 </div>
 </div>
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📖 Educations
 
