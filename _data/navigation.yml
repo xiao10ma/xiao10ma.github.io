@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Blog"
+    url: "https://xiao10ma.github.io/blog"
+
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
 
