@@ -33,7 +33,7 @@ I am a PhD student in Fudan University, supervised by [Li Zhang](https://lzrobot
 
 [**Code**](https://github.com/fudan-zvg/BezierGS)
 
-- TLDR: We propose a method that models object motion using Bézier curves, achieving accurate reconstruction and effective foreground-background separation.
+- TL;DR: We propose a method that models object motion using Bézier curves, achieving accurate reconstruction and effective foreground-background separation.
 
 </div>
 </div>
