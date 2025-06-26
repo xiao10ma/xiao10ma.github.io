@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zipei Ma's Homepage"
+title: ""
 excerpt: "PhD Student @ FDU"
 author_profile: true
 redirect_from: 
