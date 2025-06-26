@@ -24,7 +24,7 @@ I am a PhD student in Fudan University, supervised by [Li Zhang](https://lzrobot
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline/.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline/beziergs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
