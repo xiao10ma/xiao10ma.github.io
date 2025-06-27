@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Fudan University, supervised by [Prof. Li Zhang](https://lzrobots.github.io). Prior to that, I received my Bachelor's degree from Sun Yat-sen University. My research interests include reconstruction and generation.
+I am a PhD student at Fudan University, supervised by [Prof. Li Zhang](https://lzrobots.github.io). Prior to that, I received my Bachelor's degree from Sun Yat-sen University. My research interests include reconstruction and generation.
 
 # 🔥 News
 
