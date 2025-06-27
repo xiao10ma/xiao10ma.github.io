@@ -48,5 +48,5 @@ I am a PhD student at Fudan University, supervised by [Prof. Li Zhang](https://l
 # 🤣 Hobbies
 
 - 🏸 Badminton, ⚽️ Football(Visca el Barça! 💙❤️)
-- 🎮 Games(Soulslike, Multiplayer)
+- 🎮 Games(Soulslike, Multiplayer...)
 - 🎬 Movies, 🎵 Music
