@@ -27,7 +27,7 @@ I am a PhD student at Fudan University, supervised by [Prof. Li Zhang](https://l
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline/beziergs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting](https://arxiv.org/pdf/2506.22099)
 
 **Zipei Ma**\*, Junzhe Jiang\*, Yurui Chen, Li Zhang†
 
