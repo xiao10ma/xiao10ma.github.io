@@ -24,6 +24,20 @@ I am a PhD student at Fudan University, supervised by [Prof. Li Zhang](https://l
 
 # 📝 Publications
 
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+[Reinforcing Action Policies by Prophesying](https://arxiv.org/pdf/2511.20633)
+
+Jiahui Zhang\*, Ze Huang\*, Chun Gu, **Zipei Ma**, Li Zhang†
+
+[**Project**](https://logosroboticsgroup.github.io/ProphRL/)
+
+- TL;DR: We introduce ProphRL, which learns a reusable action-to-video world model and a flow-aware RL post-training strategy to improve VLA policies efficiently, delivering strong gains in both simulation and real-robot tasks.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline/beziergs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
