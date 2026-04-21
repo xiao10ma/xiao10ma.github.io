@@ -24,7 +24,7 @@ I am a PhD student at Fudan University, supervised by [Prof. Li Zhang](https://l
 
 # 📝 Publications
 
-<div class='paper-box'>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><a href='images/pipeline/prophrl.pdf'><img src='images/pipeline/prophrl.png' alt="ProphRL thumbnail" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reinforcing Action Policies by Prophesying](https://arxiv.org/pdf/2511.20633)
