@@ -33,6 +33,8 @@ Jiahui Zhang\*, Ze Huang\*, Chun Gu, **Zipei Ma**, Li Zhang†
 
 [**Project**](https://logosroboticsgroup.github.io/ProphRL/)
 
+[**Code**](https://github.com/LogosRoboticsGroup/ProphRL)
+
 - TL;DR: We introduce ProphRL, which learns a reusable action-to-video world model and a flow-aware RL post-training strategy to improve VLA policies efficiently, delivering strong gains in both simulation and real-robot tasks.
 
 </div>
