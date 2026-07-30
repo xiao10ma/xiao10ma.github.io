@@ -20,9 +20,81 @@ I am a PhD student at Fudan University, supervised by [Prof. Li Zhang](https://l
 
 # 🔥 News
 
+- *2026.07*: &nbsp;🎉🎉 DriveWeaver has been accepted by ECCV 2026.
+- *2026.05*: &nbsp;🎉🎉 MoLA has been accepted by ICML 2026.
 - *2025.06*: &nbsp;🎉🎉 BézierGS has been accepted by ICCV 2025.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report 2026</div><a href='https://arxiv.org/abs/2607.23783v1'><img src='images/pipeline/n0-twam.png' alt="N0-TWAM teaser" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[$\mathcal{N}_0$-TWAM: Scaling Tactile-Native World Action Model for Contact-Rich Manipulation](https://arxiv.org/abs/2607.23783v1)
+
+NeoteAI Team & Fudan TEAI Team
+
+[**Project**](https://research.neoteai.com/n0-twam/) [**Code**](https://github.com/neoteai/N0-TWAM)
+
+- TL;DR: We introduce $\mathcal{N}_0$-TWAM, a tactile-native world-action model that jointly predicts future vision, touch, and actions, enabling stronger contact-rich manipulation through large-scale visuo-tactile pretraining.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report 2026</div><a href='https://research.neoteai.com/assets/n0-foundation-report.pdf'><img src='images/pipeline/n0-foundation.png' alt="N0-Foundation teaser" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[$\mathcal{N}_0$-Foundation: Towards the Age of Tactile Intelligence](https://research.neoteai.com/assets/n0-foundation-report.pdf)
+
+NeoteAI Team & Fudan TEAI Team
+
+[**Project**](https://research.neoteai.com/n0-foundation/) [**Dataset**](https://huggingface.co/datasets/NeoteAIEmbodied/OpenNeoData)
+
+- TL;DR: We present $\mathcal{N}_0$-Foundation, a tactile-centric foundation that unifies scalable sensing hardware, large-scale multimodal data, transferable tactile representations, and standardized real-world and simulated evaluation.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><a href='https://arxiv.org/pdf/2606.31918'><img src='images/pipeline/driveweaver.png' alt="DriveWeaver pipeline" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation](https://arxiv.org/pdf/2606.31918)
+
+Junzhe Jiang, **Zipei Ma**, Zijie Pan, Li Zhang†
+
+[**Code**](https://github.com/LogosRoboticsGroup/DriveWeaver)
+
+- TL;DR: We propose DriveWeaver, a point-cloud-conditioned video inpainting framework that inserts controllable, temporally consistent vehicles and extracts their 3D Gaussian representations for real-time autonomous driving simulation.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href='https://arxiv.org/abs/2606.15869'><img src='images/pipeline/metis.png' alt="Metis framework" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Metis: A Generalizable and Efficient World-Action Model for Autonomous Driving and Urban Navigation](https://arxiv.org/abs/2606.15869)
+
+Jingyu Li\*, Zhe Liu\*, Dongnan Hu, Junjie Wu, **Zipei Ma**, Wenxiao Wu, Chao Han, Zhihui Hao, Zhikang Liu, Kun Zhan, Jiankang Deng, Xiatian Zhu, Li Zhang†
+
+[**Code**](https://github.com/LogosRoboticsGroup/Metis)
+
+- TL;DR: We introduce Metis, an efficient world-action model that decouples video generation and action prediction through specialized transformer experts and asymmetric attention, retaining world-model supervision during training while bypassing video generation at inference.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><a href='images/pipeline/MoLA.pdf'><img src='images/pipeline/MoLA.png' alt="MoLA pipeline" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation](https://arxiv.org/pdf/2605.12167)
+
+Yajie Li\*, Bozhou Zhang\*, Chun Gu, **Zipei Ma**, Jiahui Zhang, Jiankang Deng, Xiatian Zhu, Li Zhang
+
+[**Project**](https://logosroboticsgroup.github.io/MoLA/) [**Code**](https://github.com/LogosRoboticsGroup/MoLA)
+
+- TL;DR: We introduce MoLA, which transforms imagined future videos into executable representations through a mixture of pretrained inverse dynamics models, achieving consistent gains in simulation and real-world robot manipulation.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><a href='images/pipeline/prophrl.pdf'><img src='images/pipeline/prophrl.png' alt="ProphRL thumbnail" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
