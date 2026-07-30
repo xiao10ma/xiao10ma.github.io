@@ -26,7 +26,7 @@ I am a PhD student at Fudan University, supervised by [Prof. Li Zhang](https://l
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report 2026</div><a href='https://arxiv.org/abs/2607.23783v1'><img src='images/pipeline/n0-twam.png' alt="N0-TWAM teaser" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report 2026</div><a href='https://arxiv.org/pdf/2607.23783'><img src='images/pipeline/n0-twam.png' alt="N0-TWAM teaser" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [$\mathcal{N}_0$-TWAM: Scaling Tactile-Native World Action Model for Contact-Rich Manipulation](https://arxiv.org/abs/2607.23783v1)
@@ -68,7 +68,7 @@ Junzhe Jiang, **Zipei Ma**, Zijie Pan, Li Zhang†
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href='https://arxiv.org/abs/2606.15869'><img src='images/pipeline/metis.png' alt="Metis framework" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href='https://arxiv.org/pdf/2606.15869'><img src='images/pipeline/metis.png' alt="Metis framework" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Metis: A Generalizable and Efficient World-Action Model for Autonomous Driving and Urban Navigation](https://arxiv.org/abs/2606.15869)
@@ -82,7 +82,7 @@ Jingyu Li\*, Zhe Liu\*, Dongnan Hu, Junjie Wu, **Zipei Ma**, Wenxiao Wu, Chao Ha
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><a href='images/pipeline/MoLA.pdf'><img src='images/pipeline/MoLA.png' alt="MoLA pipeline" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><a href='https://arxiv.org/pdf/2605.12167'><img src='images/pipeline/MoLA.png' alt="MoLA pipeline" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation](https://arxiv.org/pdf/2605.12167)
@@ -96,7 +96,7 @@ Yajie Li\*, Bozhou Zhang\*, Chun Gu, **Zipei Ma**, Jiahui Zhang, Jiankang Deng, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><a href='images/pipeline/prophrl.pdf'><img src='images/pipeline/prophrl.png' alt="ProphRL thumbnail" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><a href='https://arxiv.org/pdf/2511.20633'><img src='images/pipeline/prophrl.png' alt="ProphRL thumbnail" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reinforcing Action Policies by Prophesying](https://arxiv.org/pdf/2511.20633)
@@ -110,7 +110,7 @@ Jiahui Zhang\*, Ze Huang\*, Chun Gu, **Zipei Ma**, Li Zhang†
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline/beziergs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><a href='https://arxiv.org/pdf/2506.22099'><img src='images/pipeline/beziergs.png' alt="BézierGS pipeline" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting](https://arxiv.org/pdf/2506.22099)
