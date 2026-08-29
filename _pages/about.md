@@ -124,6 +124,10 @@ Jiahui Zhang\*, Ze Huang\*, Chun Gu, **Zipei Ma**, Li Zhang†
 </div>
 </div>
 
+# 🎓 Academic Service
+
+- *Conference Reviewer*: ICML, AAAI
+
 
 
 # 📖 Educations
