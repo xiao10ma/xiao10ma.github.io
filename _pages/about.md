@@ -20,11 +20,26 @@ I am a PhD student at Fudan University and Shanghai Innovation Institute. Prior 
 
 # 🔥 News
 
+- *2026.09*: &nbsp;🎉🎉 TacPAC is now available on [arXiv](https://arxiv.org/abs/2609.05266).
 - *2026.07*: &nbsp;🎉🎉 DriveWeaver has been accepted by ECCV 2026.
 - *2026.05*: &nbsp;🎉🎉 MoLA has been accepted by ICML 2026.
 - *2025.06*: &nbsp;🎉🎉 BézierGS has been accepted by ICCV 2025.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href='https://arxiv.org/pdf/2609.05266'><img src='images/pipeline/tacpac.png' alt="TacPAC pipeline" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TacPAC: Tactile Prediction and Real-Time Action Correction in World-Action Models for Contact-Rich Manipulation](https://arxiv.org/abs/2609.05266)
+
+**Zipei Ma**, Xiaofei Wei, Junzhe Jiang, Shunlin Lu, Li Zhang
+
+[**Code**](https://github.com/LogosRoboticsGroup/TacPAC)
+
+- TL;DR: We introduce TacPAC, which uses cached tactile predictions to interpret incoming touch and correct unexecuted actions in real time, improving average success from 22% to 64% across five contact-rich real-robot tasks.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report 2026</div><a href='https://arxiv.org/pdf/2607.23783'><img src='images/pipeline/n0-twam.png' alt="N0-TWAM teaser" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
