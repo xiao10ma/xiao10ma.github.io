@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at Fudan University and Shanghai Innovation Institute, advised by [Prof. Li Zhang](https://lzrobots.github.io/). Prior to that, I received my Bachelor's degree from Sun Yat-sen University. My research interests include robotics, particularly tactile sensing and perception.
+I am a PhD student at Fudan University and Shanghai Innovation Institute, advised by [Prof. Li Zhang](https://lzrobots.github.io/). Prior to that, I received my Bachelor's degree from Sun Yat-sen University. My research focuses on post-training embodied AI models, particularly through DAgger and reinforcement learning, as well as tactile perception and learning.
 
 I work closely with my senior labmates [Junzhe Jiang](https://selfspin.github.io/) and [Jingyu Li](https://sii-whaleice.github.io/).
 
