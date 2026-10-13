@@ -51,7 +51,7 @@ I work closely with my senior labmates [Junzhe Jiang](https://selfspin.github.io
 
 **Zipei Ma**, Xiaofei Wei, Junzhe Jiang, Shunlin Lu, Li Zhang
 
-[**Code**](https://github.com/LogosRoboticsGroup/TacPAC)
+[**arXiv**](https://arxiv.org/abs/2609.05266) [**Code**](https://github.com/LogosRoboticsGroup/TacPAC)
 
 - TL;DR: We introduce TacPAC, which uses cached tactile predictions to interpret incoming touch and correct unexecuted actions in real time, improving average success from 22% to 64% across five contact-rich real-robot tasks.
 
@@ -65,7 +65,7 @@ I work closely with my senior labmates [Junzhe Jiang](https://selfspin.github.io
 
 NeoteAI Team & Fudan TEAI Team
 
-[**Project**](https://research.neoteai.com/n0-twam/) [**Code**](https://github.com/neoteai/N0-TWAM)
+[**arXiv**](https://arxiv.org/abs/2607.23783) [**Project**](https://research.neoteai.com/n0-twam/) [**Code**](https://github.com/neoteai/N0-TWAM)
 
 - TL;DR: We introduce $\mathcal{N}_0$-TWAM, a tactile-native world-action model that jointly predicts future vision, touch, and actions, enabling stronger contact-rich manipulation through large-scale visuo-tactile pretraining.
 
@@ -79,7 +79,7 @@ NeoteAI Team & Fudan TEAI Team
 
 NeoteAI Team & Fudan TEAI Team
 
-[**Project**](https://research.neoteai.com/n0-foundation/) [**Dataset**](https://huggingface.co/datasets/NeoteAIEmbodied/OpenNeoData)
+[**arXiv**](https://arxiv.org/abs/2608.29601) [**Project**](https://research.neoteai.com/n0-foundation/) [**Dataset**](https://huggingface.co/datasets/NeoteAIEmbodied/OpenNeoData)
 
 - TL;DR: We present $\mathcal{N}_0$-Foundation, a tactile-centric foundation that unifies scalable sensing hardware, large-scale multimodal data, transferable tactile representations, and standardized real-world and simulated evaluation.
 
@@ -93,7 +93,7 @@ NeoteAI Team & Fudan TEAI Team
 
 Junzhe Jiang, **Zipei Ma**, Zijie Pan, Li Zhang†
 
-[**Code**](https://github.com/LogosRoboticsGroup/DriveWeaver)
+[**arXiv**](https://arxiv.org/abs/2606.31918) [**Code**](https://github.com/LogosRoboticsGroup/DriveWeaver)
 
 - TL;DR: We propose DriveWeaver, a point-cloud-conditioned video inpainting framework that inserts controllable, temporally consistent vehicles and extracts their 3D Gaussian representations for real-time autonomous driving simulation.
 
@@ -107,7 +107,7 @@ Junzhe Jiang, **Zipei Ma**, Zijie Pan, Li Zhang†
 
 Jingyu Li\*, Zhe Liu\*, Dongnan Hu, Junjie Wu, **Zipei Ma**, Wenxiao Wu, Chao Han, Zhihui Hao, Zhikang Liu, Kun Zhan, Jiankang Deng, Xiatian Zhu, Li Zhang†
 
-[**Code**](https://github.com/LogosRoboticsGroup/Metis)
+[**arXiv**](https://arxiv.org/abs/2606.15869) [**Code**](https://github.com/LogosRoboticsGroup/Metis)
 
 - TL;DR: We introduce Metis, an efficient world-action model that decouples video generation and action prediction through specialized transformer experts and asymmetric attention, retaining world-model supervision during training while bypassing video generation at inference.
 
@@ -121,7 +121,7 @@ Jingyu Li\*, Zhe Liu\*, Dongnan Hu, Junjie Wu, **Zipei Ma**, Wenxiao Wu, Chao Ha
 
 Yajie Li\*, Bozhou Zhang\*, Chun Gu, **Zipei Ma**, Jiahui Zhang, Jiankang Deng, Xiatian Zhu, Li Zhang
 
-[**Project**](https://logosroboticsgroup.github.io/MoLA/) [**Code**](https://github.com/LogosRoboticsGroup/MoLA)
+[**arXiv**](https://arxiv.org/abs/2605.12167) [**Project**](https://logosroboticsgroup.github.io/MoLA/) [**Code**](https://github.com/LogosRoboticsGroup/MoLA)
 
 - TL;DR: We introduce MoLA, which transforms imagined future videos into executable representations through a mixture of pretrained inverse dynamics models, achieving consistent gains in simulation and real-world robot manipulation.
 
@@ -135,7 +135,7 @@ Yajie Li\*, Bozhou Zhang\*, Chun Gu, **Zipei Ma**, Jiahui Zhang, Jiankang Deng, 
 
 Jiahui Zhang\*, Ze Huang\*, Chun Gu, **Zipei Ma**, Li Zhang†
 
-[**Project**](https://logosroboticsgroup.github.io/ProphRL/) [**Code**](https://github.com/LogosRoboticsGroup/ProphRL)
+[**arXiv**](https://arxiv.org/abs/2511.20633) [**Project**](https://logosroboticsgroup.github.io/ProphRL/) [**Code**](https://github.com/LogosRoboticsGroup/ProphRL)
 
 - TL;DR: We introduce ProphRL, which learns a reusable action-to-video world model and a flow-aware RL post-training strategy to improve VLA policies efficiently, delivering strong gains in both simulation and real-robot tasks.
 
@@ -149,7 +149,7 @@ Jiahui Zhang\*, Ze Huang\*, Chun Gu, **Zipei Ma**, Li Zhang†
 
 **Zipei Ma**\*, Junzhe Jiang\*, Yurui Chen, Li Zhang†
 
-[**Code**](https://github.com/fudan-zvg/BezierGS)
+[**arXiv**](https://arxiv.org/abs/2506.22099) [**Code**](https://github.com/fudan-zvg/BezierGS)
 
 - TL;DR: We propose a method that models object motion using Bézier curves, achieving accurate reconstruction and effective foreground-background separation.
 
