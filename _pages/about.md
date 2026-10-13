@@ -39,7 +39,7 @@ I work closely with my senior labmates [Junzhe Jiang](https://selfspin.github.io
 
 [**arXiv**](https://arxiv.org/abs/2610.13117) [**Project**](https://logosroboticsgroup.github.io/FDM/) [**Code**](https://github.com/LogosRoboticsGroup/FDM)
 
-- TL;DR: We introduce FDM, which uses action-conditioned future prediction to supervise robotic policies during training and skips future generation at inference, achieving 99.4% average success on LIBERO and gains of up to 13 percentage points on real-world tasks.
+- TL;DR: We introduce FDM, which uses action-conditioned future prediction to supervise robotic policies during training and skips future generation at inference, achieving 99.4% average success on LIBERO and absolute gains of up to 13% on real-world tasks.
 
 </div>
 </div>
