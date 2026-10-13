@@ -22,12 +22,27 @@ I work closely with my senior labmates [Junzhe Jiang](https://selfspin.github.io
 
 # 🔥 News
 
+- *2026.10*: &nbsp;🎉🎉 Forward Dynamics Models (FDM) is now available on [arXiv](https://arxiv.org/abs/2610.13117), with [code](https://github.com/LogosRoboticsGroup/FDM) and a [project page](https://logosroboticsgroup.github.io/FDM/).
 - *2026.09*: &nbsp;🎉🎉 TacPAC is now available on [arXiv](https://arxiv.org/abs/2609.05266).
 - *2026.07*: &nbsp;🎉🎉 DriveWeaver has been accepted by ECCV 2026.
 - *2026.05*: &nbsp;🎉🎉 MoLA has been accepted by ICML 2026.
 - *2025.06*: &nbsp;🎉🎉 BézierGS has been accepted by ICCV 2025.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href='https://arxiv.org/pdf/2610.13117'><img src='images/pipeline/fdm.png' alt="FDM pipeline: future prediction supervises action features during training, while inference skips future generation" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Forward Dynamics Models](https://arxiv.org/abs/2610.13117)
+
+**Zipei Ma**, Junzhe Jiang, Jiahui Zhang, Juntong Zhang, Chun Gu, Bozhou Zhang, Jiankang Deng, Xiatian Zhu, Li Zhang
+
+[**arXiv**](https://arxiv.org/abs/2610.13117) [**PDF**](https://arxiv.org/pdf/2610.13117) [**Project**](https://logosroboticsgroup.github.io/FDM/) [**Code**](https://github.com/LogosRoboticsGroup/FDM)
+
+- TL;DR: We introduce FDM, which uses action-conditioned future prediction to supervise robotic policies during training and skips future generation at inference, achieving 99.4% average success on LIBERO and gains of up to 13 percentage points on real-world tasks.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href='https://arxiv.org/pdf/2609.05266'><img src='images/pipeline/tacpac.png' alt="TacPAC pipeline" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
